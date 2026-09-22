@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Aruba Orange Emblem -->
+  <g transform="translate(6, 10) scale(1.8)">
+    <path fill="#FF8300" fill-rule="evenodd" d="M12.11 17.302c-3.074 0-5.602-2.46-5.602-5.465s2.528-5.465 5.602-5.465 5.601 2.46 5.601 5.465-2.527 5.465-5.601 5.465M12.11 2C6.508 2 2 6.44 2 11.837c0 5.465 4.508 9.836 10.11 9.836 2.323 0 4.44-.751 6.148-2.049 1.025 1.708 3.962 2.05 3.962 2.05v-9.837C22.22 6.44 17.71 2 12.11 2"/>
+  </g>
+  <!-- Aruba Typography -->
+  <text x="56" y="36" font-family="'Inter', 'Arial Black', sans-serif" font-size="28" font-weight="900" fill="#FF8300" letter-spacing="-0.5">
+    aruba
+  </text>
+  <text x="58" y="49" font-family="'Inter', sans-serif" font-size="7" font-weight="600" fill="#767676" letter-spacing="0.5">
+    a Hewlett Packard Enterprise company
+  </text>
+</svg>

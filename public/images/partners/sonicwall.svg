@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- SonicWall Flame Icon -->
+  <g transform="translate(10, 8)">
+    <path d="M6 38 C4 30 10 24 16 18 C14 26 20 28 26 22 C32 16 34 8 28 2 C40 10 44 26 36 36 C32 40 24 44 14 42 C10 41 8 40 6 38 Z" fill="#F25C05"/>
+    <path d="M16 38 C14 34 16 30 20 26 C22 30 26 30 26 26 C28 32 24 38 18 39 C17 39 16 39 16 38 Z" fill="#FF8A3D"/>
+  </g>
+  <!-- SONICWALL Wordmark -->
+  <text x="62" y="38" font-family="'Inter', 'Arial Black', sans-serif" font-size="24" font-weight="900" fill="#1D252C" letter-spacing="1">
+    SONICWALL
+  </text>
+</svg>

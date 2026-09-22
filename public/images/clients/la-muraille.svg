@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="50%" stop-color="#F3E5AB"/>
+      <stop offset="100%" stop-color="#AA771C"/>
+    </linearGradient>
+  </defs>
+  <!-- Architectural / Rampart Arch Emblem -->
+  <g transform="translate(15, 12)">
+    <circle cx="38" cy="38" r="35" stroke="url(#goldGrad)" stroke-width="2" fill="none" opacity="0.6"/>
+    <circle cx="38" cy="38" r="30" stroke="#0F172A" stroke-width="1.5" fill="none"/>
+    <!-- Heritage Arch & Star -->
+    <path d="M26 54 V36 C26 29.37 31.37 24 38 24 C44.63 24 50 29.37 50 36 V54" stroke="url(#goldGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M38 18 L39.2 21.5 L42.8 21.5 L39.9 23.6 L41 27 L38 24.8 L35 27 L36.1 23.6 L33.2 21.5 L36.8 21.5 Z" fill="url(#goldGrad)"/>
+    <path d="M32 42 H44 M38 34 V48" stroke="url(#goldGrad)" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+  <!-- Typography -->
+  <text x="105" y="44" font-family="'Cinzel', 'Playfair Display', 'Georgia', serif" font-size="22" font-weight="700" letter-spacing="3" fill="#0F172A">LA MURAILLE</text>
+  <text x="106" y="62" font-family="'Cinzel', 'Trajan Pro', 'Georgia', serif" font-size="10" font-weight="600" letter-spacing="5" fill="#AA771C">GALLE FORT</text>
+  <text x="106" y="77" font-family="'Inter', -apple-system, sans-serif" font-size="9" font-weight="400" letter-spacing="1.5" fill="#64748B">HERITAGE BOUTIQUE HOTEL</text>
+</svg>

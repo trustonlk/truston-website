@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 50" fill="none">
+  <!-- Digital People Network Nodes Emblem -->
+  <g transform="translate(8, 7)">
+    <circle cx="18" cy="11" r="5" fill="#0284C7"/>
+    <path d="M9 31C9 24.5 13 20 18 20C23 20 27 24.5 27 31H9Z" fill="#0F172A"/>
+    <!-- Connected Digital Nodes -->
+    <circle cx="6" cy="18" r="3.5" fill="#38BDF8"/>
+    <circle cx="30" cy="18" r="3.5" fill="#38BDF8"/>
+    <line x1="9" y1="19" x2="14" y2="21" stroke="#38BDF8" stroke-width="1.5"/>
+    <line x1="27" y1="19" x2="22" y2="21" stroke="#38BDF8" stroke-width="1.5"/>
+  </g>
+  <!-- Text -->
+  <text x="48" y="27" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="20" fill="#0F172A" letter-spacing="0.5">digital<tspan fill="#0284C7">people</tspan></text>
+  <text x="49" y="39" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="8" fill="#64748B" letter-spacing="2.5">TECHNOLOGY SOLUTIONS</text>
+</svg>

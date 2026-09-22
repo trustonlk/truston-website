@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- ZKTeco Biometric Wave / Shield -->
+  <g transform="translate(10, 8)">
+    <circle cx="22" cy="22" r="20" fill="#00A859" opacity="0.15"/>
+    <path d="M12 22 C12 16 16 12 22 12 C28 12 32 16 32 22 C32 28 28 32 22 32" stroke="#00A859" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M16 22 C16 18.5 18.5 16 22 16 C25.5 16 28 18.5 28 22 C28 25.5 25.5 28 22 28" stroke="#0072BC" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <circle cx="22" cy="22" r="2.5" fill="#00A859"/>
+  </g>
+  <!-- ZKTECO Wordmark -->
+  <text x="60" y="38" font-family="'Inter', 'Arial Black', sans-serif" font-size="26" font-weight="900" fill="#00A859" letter-spacing="1.5">
+    ZK
+  </text>
+  <text x="104" y="38" font-family="'Inter', 'Arial Black', sans-serif" font-size="26" font-weight="900" fill="#0072BC" letter-spacing="1.5">
+    TECO
+  </text>
+</svg>
